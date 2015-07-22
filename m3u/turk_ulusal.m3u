@@ -1,0 +1,431 @@
+﻿#EXTM3U
+#EXTINF:-1,***HasBahCa IPTV***TÜRKİYE Ulusal FAVORILER***
+http://01.gen.tr/HasBahCa_IPTV/turkiye.mp4
+#EXTINF:-1,24 TV 352*576 http myvideo.az GEÇ AÇILIR
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/kanal24/kanal24/kanal24.m3u8?&rRb545vJBB5tYzB7vVP
+#EXTINF:-1,360  - 720*576 rtmp myvideo.az
+rtmp://$OPT:rtmp-raw=rtmp://edge04-08.az.myvideo.az/dvrh264/skyturk/ playpath=mp4:skyturk swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=skyturk
+#EXTINF:-1,365 320*256
+http://livetr.gostream.nl/armaholding/365/HasBahCa.m3u8
+#EXTINF:-1,7/24 TV -720*576
+rtmpt://live4.radyotvonline.com:80/724tv/724stream.flv
+#EXTINF:-1,A HABER 720*510
+http://rtmp.turkuvazgroup.net/ahaber/ahaber3/hasbahca.m3u8
+#EXTINF:-1,ATV - 720*576 rtmp myvideo.az
+rtmp://$OPT:rtmp-raw=rtmp://edge03-01.az.myvideo.az/dvrh264/atvturk/ playpath=mp4:atvturk swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=atvturk
+#EXTINF:-1,BENGÜTÜRK TV -640*512
+rtmp://yayin8.canliyayin.org/benguturk/benguturk
+#EXTINF:-1,BEYAZ -480*270
+rtmp://$OPT:rtmp-raw=rtmp://stream.n2.noc.com.tr/live playpath=beyaztv.stream swfUrl=http://portal.wowzaserver.com/player/latest/flowplayer.commercial-3.2.16.swf live=1 pageUrl=http://portal.wowzaserver.com/player/iFramePlayer.php?uID=20&sID=330
+#EXTINF:-1,CNN TURK 720*576
+http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1,DOST TV -480*320 rtmp
+rtmp://www.dosttv.com/dosttv/dosttv2.flv
+#EXTINF:-1,FOX - 720*576 rtmp myvideo.az
+rtmp://$OPT:rtmp-raw=rtmp://edge04-09.az.myvideo.az/dvrh264/foxturk/ playpath=mp4:foxturk swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=foxturk
+#EXTINF:-1,HABER TüRK - 720*576 rtmp myvideo.az
+rtmp://$OPT:rtmp-raw=rtmp://edge03-08.az.myvideo.az/dvrh264/haberturk/ playpath=mp4:haberturk swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=haberturk
+#EXTINF:-1,KANAL 7 - 720*576 rtmp myvideo.az
+rtmp://$OPT:rtmp-raw=rtmp://edge03-04.az.myvideo.az/dvrh264/kanal7/ playpath=mp4:kanal7 swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=kanal7
+#EXTINF:-1,KANAL A -720*576 rtmp
+rtmp://yayin.yayin.tv.tr:1935/kanala/kanala1
+#EXTINF:-1,KANAL B -320*240 rtmp
+rtmp://212.174.233.129/livepkgr/mylivestream
+#EXTINF:-1,KANAL D - 720*576 rtmp myvideo.az
+rtmp://$OPT:rtmp-raw=rtmp://edge03-01.az.myvideo.az/dvrh264/canald/canald swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=canald
+#EXTINF:-1,KANAL TüRK - 720*576 rtmp myvideo.az
+rtmp://$OPT:rtmp-raw=rtmp://edge04-08.az.myvideo.az/dvrh264/kanalturk/ playpath=mp4:kanalturk swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=kanalturk
+#EXTINF:-1,KRAL - 720*576 rtmp myvideo.az
+rtmp://$OPT:rtmp-raw=rtmp://edge03-04.az.myvideo.az/dvrh264/kral/ playpath=mp4:kral swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=kral
+#EXTINF:-1,NTV - 720*576 rtmp myvideo.az
+rtmp://$OPT:rtmp-raw=rtmp://edge04-08.az.myvideo.az/dvrh264/canlintv/ playpath=mp4:canlintv swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=canlintv
+#EXTINF:-1,OGÜN HABER TV -896*480
+rtmp://s01.speednext.com:1935/ogunhaber/ogunhaber
+#EXTINF:-1,OLAY TV -640*360
+rtmp://s01.speednext.com:1935/olaytv/olaytv
+#EXTINF:-1,SHOW TV - 720*576 rtmp myvideo.az
+rtmp://$OPT:rtmp-raw=rtmp://edge04-09.az.myvideo.az/dvrh264/showtv/ playpath=mp4:showtv swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=showtv
+#EXTINF:-1,STAR TV - 720*576 rtmp myvideo.az
+rtmp://$OPT:rtmp-raw=rtmp://edge04-04.az.myvideo.az/dvrh264/startv/startv swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=startv
+#EXTINF:-1,TGRT HABER -512*288
+rtmp://tgrthaber.mediatriple.net:1935/tgrtliveedge/tgrt3
+#EXTINF:-1,TMB TV - 720*576 rtmp myvideo.az
+rtmp://$OPT:rtmp-raw=rtmp://edge03-07.az.myvideo.az/dvrh264/tmbtv/ playpath=mp4:tmbtv swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=tmbtv
+#EXTINF:-1,TRT 1  - 720*576 rtmp myvideo.az
+rtmp://$OPT:rtmp-raw=rtmp://edge03-08.az.myvideo.az/dvrh264/trt1/ playpath=mp4:trt1 swfUrl=http://www.myvideo.az/dvr/dvrAvatar7.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az
+#EXTINF:-1,TRT AVAZ - 720*576 rtmp myvideo.az
+rtmp://$OPT:rtmp-raw=rtmp://edge04-10.az.myvideo.az/dvrh264/trtavaz/ playpath=mp4:trtavaz swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=trtavaz
+#EXTINF:-1,TRT COCUK - 720*576 rtmp myvideo.az
+rtmp://$OPT:rtmp-raw=rtmp://edge03-08.az.myvideo.az/dvrh264/trtcocuk/ playpath=mp4:trtcocuk swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=trtcocuk
+#EXTINF:-1,TRT HABER -720*396
+http://mn-l.mncdn.com/trthaber/trthaber3/hasbahca.m3u8
+#EXTINF:-1,TRT OKUL - 720*576 rtmp myvideo.az
+rtmp://$OPT:rtmp-raw=rtmp://edge04-03.az.myvideo.az/dvrh264/okul/ playpath=mp4:okul swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=okul
+#EXTINF:-1,TV 2  -720*576
+http://live.netd.com.tr/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
+#EXTINF:-1,TV8 - 720*576 rtmp myvideo.az
+rtmp://$OPT:rtmp-raw=rtmp://edge03-03.az.myvideo.az/dvrh264/tv8/ playpath=mp4:tv8 swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=tv8
+#EXTINF:-1,ÜLKE TV HD -720*500 http
+http://livetr.gostream.nl/ulketvhq/ulketvhq/hasbahca.m3u8
+#EXTINF:-1,ULUSAL KANAL 320*214
+rtmp://174.127.77.205:1935/ulusaltv/livestream
+#EXTINF:-1,VATAN TV 480*360
+rtmp://188.124.1.135:1935/vatan/vatan
+#EXTINF:-1,***HasBahCa IPTV***Ulusal Kanallar***
+http://01.gen.tr/HasBahCa_IPTV/turkiye.mp4
+#EXTINF:-1,360 TV  720*576 http myvideo.az GEÇ AÇILIR
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/skyturk/skyturk/skyturk.m3u8?&rRb545vJBB5tYzB7vVP
+#EXTINF:-1,365 -720*576 http myvideo.az GEÇ AÇILIR
+http://hls01-12.az.myvideo.az/hls-live/livepkgr/365day/365day/365day.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,a SPOR
+http://rtmp.turkuvazgroup.net/aspor/aspor3/HasBahCa.m3u8
+#EXTINF:-1,A9 HD 1280*720
+rtmp://5.102.168.36:1935/live/myStream_3
+#EXTINF:-1,A9 TV -640*360
+rtmp://live.harunyahya.tv/harunyahyalive/hytest1
+#EXTINF:-1,ANC TV - 600*350
+rtmp://212.64.200.238/livepkgr/livestream
+#EXTINF:-1,ANS TV -720*576 http myvideo.az GEÇ AÇILIR
+http://hls01-01.az.myvideo.az/hls-live/livepkgr/anstv/anstv/anstv.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,ATV  -720*510
+rtmp://$OPT:rtmp-raw=rtmp://live.atv.com.tr:1935/atv/atv3 swfUrl=http://i.tmgrup.com.tr/p/flowplayer-3.2.9.swf  pageUrl=http://www.atv.com.tr/webtv/canli-yayin
+#EXTINF:-1,ATV  720*576 http myvideo.az GEÇ AÇILIR
+http://hls01-01.az.myvideo.az/hls-live/livepkgr/atvturk/atvturk/atvturk.m3u8?&rRb545vJBB5tYzB7vVP
+#EXTINF:-1,ATV AVRUPA 720*510
+http://rtmp.turkuvazgroup.net/atveu/atveu3/hasbahca.m3u8
+#EXTINF:-1,BELGESEL TV MMS -480*384
+mms://yayin.networkbil.com/belgeseltv
+#EXTINF:-1,BERAT TV320*256
+http://livetr.gostream.nl/armaholding/berattv/HasBahCa.m3u8
+#EXTINF:-1,BEYAZ TV -480*270
+http://beyaztv.mediatriple.net:1935/beyazliveedge/beyaztv1/hasbahca.m3u8
+#EXTINF:-1,BRT 1 -480*360 http
+http://wms.brtk.net:1935/live/brt1/hasbahca.m3u8
+#EXTINF:-1,BRT 2 -480*360 http
+http://wms.brtk.net:1935/live/brt2/hasbahca.m3u8
+#EXTINF:-1,BRT TV 1 -480*360 rtmp
+rtmp://wms.brtk.net:1935/live/brt1
+#EXTINF:-1,BRT TV 2 -480*360 rtmp
+rtmp://wms.brtk.net:1935/live/brt2
+#EXTINF:-1,BRTV 176*140
+http://yayin3.canlitv.com:1935/live/brtv/HasBahCa.m3u8
+#EXTINF:-1,BURSASPOR TV 720*576
+rtmp://stream.yayindayiz.biz:80/Bursaspor/bursaspor
+#EXTINF:-1,ÇAPUL TV -640*480
+rtmp://s9.tilda.com.tr:80/live/Stream1
+#EXTINF:-1,CARTOON NETWORK  720*576 http myvideo.az GEÇ AÇILIR
+http://hls01-09.az.myvideo.az/hls-live/livepkgr/cartoon/cartoon/cartoon.m3u8&rRb545vJBB5tYzB7vVP
+#EXTINF:-1,CEM TV 320*240
+rtmp://stream.pivol.com:1935/live/cemtv.flv
+#EXTINF:-1,ÇİZGİ FİLM TV MMS
+mms://yayin7.canliyayin.org/cizgifilmtv
+#EXTINF:-1,D HD 1280*720
+http://wx.live.bestvcdn.com.cn.WorldSportsStreams28://qlql.ru/bZ6
+#EXTINF:-1,DİSNEY CHANNEL   720*576 http myvideo.az GEÇ AÇILIR
+http://hls01-05.az.myvideo.az/hls-live/livepkgr/disney/disney/disney.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,DİSNEY CHANNEL -720*576
+http://212.224.109.101/S1/HLS_LIVE/disney/1000/prog_index.m3u8
+#EXTINF:-1,DOST TV -180*120 http
+http://109.73.73.122:1935/dosttv/dosttv1/hasbahca.m3u8
+#EXTINF:-1,DREAM TÜRK TV -720*576
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+#EXTINF:-1,DREAM TV -720*576
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1,FOX  720*576 http myvideo.az GEÇ AÇILIR
+http://hls01-09.az.myvideo.az/hls-live/livepkgr/foxturk/foxturk/foxturk.m3u8?&rRb545vJBB5tYzB7vVP
+#EXTINF:-1,FOX HD 640*480
+http://hd.yayin3.canlitv.mobi:7777/FoxTurkiye_HD/FoxTurkiye_High.m3u8
+#EXTINF:-1,HABER 61 TV -900*506
+rtmp://win8.yayinda.org/haber61tv/haber61tv
+#EXTINF:-1,HABERTÜRK -480*360
+http://mn-l.mncdn.com/haberturk/haberturk2/hasbahca.m3u8
+#EXTINF:-1,HABERTÜRK -480*360
+http://live-ciner.mncdn.net/haberturk/haberturk2/hasbahca.m3u8
+#EXTINF:-1,HABERTURK -720*576 http myvideo.az GEÇ AÇILIR
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/haberturk/haberturk/haberturk.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,HALİS TV -320*240
+http://yayin3.canlitv.com:1935/live/halistv/hasbahca.m3u8
+#EXTINF:-1,HALK HABER -640*480
+rtmp://37.77.2.234:1935/redirect/live
+#EXTINF:-1,HİLAL TV 720*576
+http://yayin8.canliyayin.org:1935/hilaltv/hilaltv/HasBahCa.m3u8
+#EXTINF:-1,Kanal 7 -720*576 http myvideo.az GEÇ AÇILIR
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/kanal7/kanal7/kanal7.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,KANAL 7 AVRUPA -720*500
+http://livetr.gostream.nl/kanal7int/kanal7int/hasbahca.m3u8
+#EXTINF:-1,KANAL 7 HD -720*500
+http://livetr.gostream.nl/kanal7hq/kanal7hq/hasbahca.m3u8
+#EXTINF:-1,KANAL 7/24 TV
+rtmpt://live4.radyotvonline.com:80/724tv/724stream.flv
+#EXTINF:-1,KANAL A -640*512
+rtmp://$OPT:rtmp-raw=rtmp://yayin.yayin.tv.tr:1935/kanala/kanala2
+#EXTINF:-1,KANAL A -720*576 http
+http://iphone.noc.com.tr/kanala/kanala1/hasbahca.m3u8
+#EXTINF:-1,KANAL B -320*240 http
+http://212.174.233.129/hls-live/livepkgr/_definst_/liveevent/mylivestream.m3u8
+#EXTINF:-1,KANAL D  720*576 http myvideo.az GEÇ AÇILIR
+http://hls01-01.az.myvideo.az/hls-live/livepkgr/canald/canald/canald.m3u8?&rRb545vJBB5tYzB7vVP
+#EXTINF:-1,Kanal D - 720*576 rtmp myvideo.az
+rtmp://$OPT:rtmp-raw=rtmp://edge04-01.az.myvideo.az/dvrh264/canald/ playpath=mp4:canald swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=canald
+#EXTINF:-1,Kanal D HD -1280*720
+http://212.224.108.80/S1/HLS_LIVE/kanald/1500/prog_index.m3u8
+#EXTINF:-1,Kanal D HD -720*576
+http://212.224.108.80/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+#EXTINF:-1,KANAL KABE -720*500
+http://livetr.gostream.nl/mekke/mekke/hasbahca.m3u8
+#EXTINF:-1,KANAL SOKAK -512*288
+http://live.stream.cdnline.com:80/mylive/sokak/hasbahca.m3u8
+#EXTINF:-1,KANALTURK  720*576 http myvideo.az GEÇ AÇILIR
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/kanalturk/kanalturk/kanalturk.m3u8?&rRb545vJBB5tYzB7vVP
+#EXTINF:-1,KANALTURK HD 640*480
+http://hd.yayin3.canlitv.mobi:7777/Kanalturk_HD/Kanalturk_High.m3u8
+#EXTINF:-1,KRAL TV -720*576 http myvideo.az GEÇ AÇILIR
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/kral/kral/kral.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,MIHR TV MMS
+mmsh://rmserver5.mihr.com:8080/wmtencoder/nurtv_tr.wmv
+#EXTINF:-1,MMC TÜRK -320*256
+http://livetr.gostream.nl/armaholding/mmctv/hasbahca.m3u8
+#EXTINF:-1,Netd Live -720*576
+http://212.224.108.80/S1/HLS_LIVE/taksim/1000/prog_index.m3u8
+#EXTINF:-1,Netd Live HD -1280*720
+http://212.224.108.80/S1/HLS_LIVE/taksim/1500/prog_index.m3u8
+#EXTINF:-1,NTV  720*576 http myvideo.az GEÇ AÇILIR
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/canlintv/canlintv/canlintv.m3u8?&rRb545vJBB5tYzB7vVPa
+#EXTINF:-1,NTV SPOR  720*576 http myvideo.az GEÇ AÇILIR
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/ntvspor/ntvspor/ntvspor.m3u8?&rRb545vJBB5tYzB7vVP
+#EXTINF:-1,NUMBER ONE TÜRK TV 640*360
+rtmp://mn-l.mncdn.com/birnumaramedya_live/nr1_turk.sdp
+#EXTINF:-1,NUR TV mmsh
+mmsh://rmserver5.mihr.com:8080/wmtencoder/nurtv_tr.wmv?MSWMExt=.asf
+#EXTINF:-1,ÖNCÜ TV -480*320
+rtmp://stream.taksimbilisim.com/oncutv/bant1
+#EXTINF:-1,PLANET ÇOCUK -320*240
+rtmp://77.223.146.117/live/planetc
+#EXTINF:-1,PLANET MUTFAK -480*270
+rtmp://77.223.146.117/live/planetm
+#EXTINF:-1,PLANET PEMBE
+http://77.223.146.117:1935/live/planetp/hasbahca.m3u8
+#EXTINF:-1,PLANET PEMBE -320*240
+rtmp://77.223.146.117/live/planetp
+#EXTINF:-1,PLANET TÜRK
+rtmp://77.223.146.117/live/planett
+#EXTINF:-1,PLANET TüRK - 720*576 rtmp myvideo.az
+rtmp://$OPT:rtmp-raw=rtmp://edge04-07.az.myvideo.az/dvrh264/planetturk/ playpath=mp4:planetturk swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=planetturk
+#EXTINF:-1,PLANET TÜRK -320*240
+rtmp://77.223.146.117/live/planett
+#EXTINF:-1,PLANET TURK -720*576 http myvideo.az GEÇ AÇILIR
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/planetturk/planetturk/planetturk.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,Power Turk TV 720*576
+http://176.9.3.136:21228/api/gateway.php?t=1510%2Cbbc25ce1c97ff908a8a83e7a78ee79fc%2C2571%2C34891
+#EXTINF:-1,QURAN TV Azerice  MMS
+mms://isl1.islam4peace.com/QuranAzeriThemeTV
+#EXTINF:-1,QURAN TV Türkçe MMS
+mms://isl1.islam4peace.com/QuranTurkishThemeTV
+#EXTINF:-1,SEMERKAND TV
+rtmp://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1
+#EXTINF:-1,SHOW TÜRK -480*270
+http://mn-l.mncdn.com/showturktv/showturktv1/hasbahca.m3u8
+#EXTINF:-1,SHOW TV -720*576
+http://mn-i.mncdn.com/showtv_ios/smil:showtv.smil/hasbahca.m3u8
+#EXTINF:-1,SHOW TV -720*576 http myvideo.az GEÇ AÇILIR
+http://hls01-09.az.myvideo.az/hls-live/livepkgr/showtv/showtv/showtv.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,SHOW TV HQ 640*480
+http://hd.yayin3.canlitv.mobi:7777/ShowTV_HD/ShowTV_High.m3u8
+#EXTINF:-1,SPORTS TV -480*318
+rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
+#EXTINF:-1,Sports TV -720*576 http myvideo.az GEÇ AÇILIR
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport1/sport1/sport1.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,STAR TV  720*576 http myvideo.az GEÇ AÇILIR
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/startv/startv/startv.m3u8?&rRb545vJBB5tYzB7vVP
+#EXTINF:-1,STAR TV - 720*576 rtmp myvideo.az
+rtmp://$OPT:rtmp-raw=rtmp://edge03-04.az.myvideo.az/dvrh264/startv/ playpath=mp4:startv swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=startv
+#EXTINF:-1,Star TV 720*576
+http://176.9.3.136:21228/api/gateway.php?t=1507%2Cbbc25ce1c97ff908a8a83e7a78ee79fc%2C2571%2C34891
+#EXTINF:-1,Tay TV -720*576
+http://212.224.108.80/S1/HLS_LIVE/tay/1000/prog_index.m3u8
+#EXTINF:-1,TBMM TV
+rtsp://212.175.12.150/tv
+#EXTINF:-1,TEMPO TV -320*240
+rtmp://91.93.118.165/tempotv/livestream
+#EXTINF:-1,TEMPO TV -320*240
+rtmp://$OPT:rtmp-raw=rtmp://91.93.118.165/tempotv/ playpath=livestream swfUrl=http://player.longtailvideo.com/player.swf pageUrl=http://radyodelisi.blogspot.com/2011/12/tempo-tv.html swfVfy=1 live=true
+#EXTINF:-1,TGRT Belgesel -320*240
+rtmp://tgrtbelgesel.mediatriple.net:1935/tgrtbliveedge/tgrt1
+#EXTINF:-1,TJK TV -600*480
+rtmp://stream.farm.cdnline.com:554/liveedge/tjk.stream_512k
+#EXTINF:-1,TMB TV  720*576 http myvideo.az GEÇ AÇILIR
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/tmbtv/tmbtv/tmbtv.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,TRT 1 - 720*576 rtmp myvideo.az
+rtmp://$OPT:rtmp-raw=rtmp://edge04-08.az.myvideo.az/dvrh264/trt1/ playpath=mp4:trt1 swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=trt1
+#EXTINF:-1,TRT 1 -640*360
+http://mn-l.mncdn.com/trt1/trt13/hasbahca.m3u8
+#EXTINF:-1,TRT 1 -720*576 http myvideo.az GEÇ AÇILIR
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/trt1/trt1/trt1.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,TRT 1 HD 640*480
+http://hd.yayin3.canlitv.mobi:7777/TRT1_HD/TRT1_High.m3u8
+#EXTINF:-1,TRT 1 HD 960*540 http
+http://176.9.3.136:21228/api/gateway.php?t=1505%2Cbbc25ce1c97ff908a8a83e7a78ee79fc%2C2571%2C34891
+#EXTINF:-1,TRT 3 - 720*576 rtmp myvideo.az
+rtmp://$OPT:rtmp-raw=rtmp://edge04-08.az.myvideo.az/dvrh264/trt3/ playpath=mp4:trt3 swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=trt3
+#EXTINF:-1,TRT 6 -640*480
+http://sol.trtcdn.com/tv/trt6/trt6_3/hasbahca.m3u8
+#EXTINF:-1,TRT 6 -640*480
+rtmp://$OPT:rtmp-raw=rtmp-raw=rtmp://do.trtcdn.com/tv/ playpath=trt6_3 swfUrl=http://gusto.trt.net.tr/VideoPlayer/player.swf live=true pageUrl=http://radyodelisi.blogspot.com/2013/02/trt6.html
+#EXTINF:-1,TRT ARAPÇA -640*360
+rtmp://$OPT:rtmp-raw=rtmp-raw=rtmp://re.trtcdn.com/tv/ playpath=trtarapca_3 swfUrl=http://gusto.trt.net.tr/VideoPlayer/player.swf live=true pageUrl=http://radyodelisi.blogspot.com/2013/02/trt-arapca.html
+#EXTINF:-1,TRT ARAPÇA -640*480
+http://sol.trtcdn.com/tv/trtarapca/trtarapca_3/hasbahca.m3u8
+#EXTINF:-1,TRT AVAZ - 720*576 rtmp myvideo.az
+rtmp://$OPT:rtmp-raw=rtmp://edge03-10.az.myvideo.az/dvrh264/trtavaz/ playpath=mp4:trtavaz swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=trtavaz
+#EXTINF:-1,TRT AVAZ -640*360
+rtmp://re.trtcdn.com/tv/trtavaz_3
+#EXTINF:-1,TRT AVAZ -640*360 rtmp
+rtmp://$OPT:rtmp-raw=rtmp://do.trtcdn.com/tv/ playpath=trtavaz_3  swfUrl=http://www.trt.net.tr/js/jwplayer.flash.swf  pageUrl=http://www.trt.net.tr/anasayfa/canli.aspx?y=tv&k=trtavaz
+#EXTINF:-1,TRT AVAZ -640*480 http
+http://sol.trtcdn.com/tv/trtavaz/trtavaz_3/hasbahca.m3u8
+#EXTINF:-1,TRT AVAZ -720*576 http myvideo.az GEÇ AÇILIR
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/trtavaz/trtavaz/trtavaz.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,TRT BELGESEL -640*480
+http://sol.trtcdn.com/tv/trtbelgesel/trtbelgesel_3/hasbahca.m3u8
+#EXTINF:-1,TRT ÇOCUK -320*240
+http://re.trtcdn.com:1935/tv/trtcocuk_1/hasbahca.m3u8
+#EXTINF:-1,TRT ÇOCUK -640*480
+http://sol.trtcdn.com/tv/trtcocuk/trtcocuk_3/hasbahca.m3u8
+#EXTINF:-1,TRT COCUK -720*576 http myvideo.az GEÇ AÇILIR
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/trtcocuk/trtcocuk/trtcocuk.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,TRT DIYANET  -640*480 rtmp
+rtmp://sol.trtcdn.com/tv/trtdiyanet_3
+#EXTINF:-1,TRT DIYANET -640*480 http
+http://sol.trtcdn.com/tv/trtdiyanet/smil:trtdiyanet.smil/hasbahca.m3u8
+#EXTINF:-1,TRT Haber 720*546
+http://176.9.3.136:21228/api/gateway.php?t=1506%2Cbbc25ce1c97ff908a8a83e7a78ee79fc%2C2571%2C34891
+#EXTINF:-1,TRT HABER -720*576 http myvideo.az GEÇ AÇILIR
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/haberturk/haberturk/haberturk.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,TRT HD
+rtmp://sol.trtcdn.com/tv/trthd/mp4:trthd_3
+#EXTINF:-1,TRT HD 960*540 http
+http://176.9.3.136:21228/api/gateway.php?t=1503%2Cbbc25ce1c97ff908a8a83e7a78ee79fc%2C2571%2C34891
+#EXTINF:-1,TRT MÜZIK -320*180
+http://re.trtcdn.com:1935/tv/trtmuzik_1/hasbahca.m3u8
+#EXTINF:-1,TRT MÜZİK -640*480
+http://sol.trtcdn.com/tv/trtmuzik/trtmuzik_3/hasbahca.m3u8
+#EXTINF:-1,TRT OKUL -320*180 http
+http://re.trtcdn.com:1935/tv/trtokul_1/hasbahca.m3u8
+#EXTINF:-1,TRT OKUL -640*360 rtmp
+rtmp://$OPT:rtmp-raw=rtmp://re.trtcdn.com/tv/ playpath=trtokul_3 swfUrl=http://gusto.trt.net.tr/VideoPlayer/player.swf pageUrl=http://radyodelisi.blogspot.com/2009/10/trt-okul.html
+#EXTINF:-1,TRT OKUL -640*480
+http://sol.trtcdn.com/tv/trtokul/smil:trtokul.smil/hasbahca.m3u8
+#EXTINF:-1,TRT OKUL -720*576 http myvideo.az GEÇ AÇILIR
+http://hls01-03.az.myvideo.az/hls-live/livepkgr/okul/okul/okul.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,TRT SPOR -720*576 http myvideo.az GEÇ AÇILIR
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/trt3/trt3/trt3.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,TRT TÜRK
+rtmp://sol.trtcdn.com/tv/trtturk/mp4:trtturk_3
+#EXTINF:-1,TRT TURK -720*576 http myvideo.az GEÇ AÇILIR
+http://hls01-09.az.myvideo.az/hls-live/livepkgr/trtturk/trtturk/trtturk.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,TV 1 480*320
+rtmp://stream.taksimbilisim.com:1935/tv1/bant1
+#EXTINF:-1,TV 10 -720*576 http
+http://5.135.142.60:1935/tv10/xetero/hasbahca.m3u8
+#EXTINF:-1,TV 10 -720*576 rtmp
+rtmp://5.135.142.60:1935/tv10/xetero
+#EXTINF:-1,TV 5 -720*576 http myvideo.az GEÇ AÇILIR
+http://hls01-05.az.myvideo.az/hls-live/livepkgr/tv5/tv5/tv5.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,TV 5 mms
+mmsh://yayin3.canliyayin.org/tv5
+#EXTINF:-1,TV 8 640*360
+http://mn-l.mncdn.com/tv8/tv8_live3/HasBahCa.m3u8
+#EXTINF:-1,TV 8 -720*576 http myvideo.az GEÇ AÇILIR
+http://hls01-03.az.myvideo.az/hls-live/livepkgr/tv8/tv8/tv8.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,TV NET 640*480
+rtmp://91.93.118.165/tvnet/livestream
+#EXTINF:-1,TVM 320*240
+http://yayin3.canlitv.com:1935/live/tvmalatya/HasBahCa.m3u8
+#EXTINF:-1,TVNET -640*480
+rtmp://91.93.118.165/tvnet/livestream
+#EXTINF:-1,ÜLKE TV HD 720*400 rtmp
+rtmp://stream.gostream.nl:443/ulketvhq/ulketvhq
+#EXTINF:-1,UZAY TV -352*288
+rtmpe://sr1.netmedya.org/uzay-tv/live.sdp
+#EXTINF:-1,VEKILIM TV -1280*720
+rtmp://$OPT:rtmp-raw=rtmp://stream.n2.noc.com.tr/live playpath=vekilim.stream swfUrl=http://portal.wowzaserver.com/player/latest/flowplayer.commercial-3.2.16.swf live=1 pageUrl=http://portal.wowzaserver.com/player/iFramePlayer.php?uID=20&sID=340
+#EXTINF:-1,VEKİLİM TV-1280*720
+rtmp://s01.speednext.com:1935/vekilimtv/vekilimtv
+#EXTINF:-1,VİZYONTÜRK TV 320*240
+http://yayin3.canlitv.com:1935/live/vizyonturktv/HasBahCa.m3u8
+#EXTINF:-1,VTV -480*320
+rtmp://stream2.taksimbilisim.com/kanalvip/bant1
+#EXTINF:-1,VUSLAT TV 320*240
+http://yayin3.canlitv.com:1935/live/vuslattv/HasBahCa.m3u8
+#EXTINF:-1,WOMAN LİFE TV MMS
+mms://yayin5.canliyayin.org/womanlife
+#EXTINF:-1,WORLD TRAVEL CHANNEL480*320
+rtmp://$OPT:rtmp-raw=rtmp://stream.taksimbilisim.com:1935/wtc/bant1
+#EXTINF:-1,YABAN TV - 720*576 rtmp myvideo.az
+rtmp://$OPT:rtmp-raw=rtmp://edge03-03.az.myvideo.az/dvrh264/yabantv/ playpath=mp4:yabantv swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=yabantv
+#EXTINF:-1,YABAN TV -720*576 http myvideo.az GEÇ AÇILIR
+http://hls01-03.az.myvideo.az/hls-live/livepkgr/yabantv/yabantv/yabantv.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,YAT TV 640*360
+rtmp://s01.speednext.com:1935/yattv/yattv
+#EXTINF:-1,YOL TV -720*576
+rtmp://178.254.20.205:2100/yol/yolstream.flv
+#EXTINF:-1,YUMURCAK - 720*576 rtmp myvideo.az
+rtmp://$OPT:rtmp-raw=rtmp://edge04-07.az.myvideo.az/dvrh264/yumurcak/ playpath=mp4:yumurcak swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=yumurcak
+#EXTINF:-1,YUMURCAK TV -720*576 http myvideo.az GEÇ AÇILIR
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/yumurcak/yumurcak/yumurcak.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,YURDUM TV 320*256
+http://livetr.gostream.nl/armaholding/yurdumtv/HasBahCa.m3u8
+#EXTINF:-1,ZTV BİLGİ 480*320
+rtmp://stream.taksimbilisim.com/ztv/bant1
+#EXTINF:-1,***HasBahCa IPTV*** Ulusal YEDEK Kanallar***
+http://01.gen.tr/HasBahCa_IPTV/turkiye.mp4
+#EXTINF:-1,ATV
+rtmp://$OPT:rtmp-raw=rtmp://edge03-01.az.myvideo.az/dvrh264/atvturk/ playpath=mp4:atvturk swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=atvturk
+#EXTINF:-1,BELGESEL TV mms
+mms://yayin7.canliyayin.org/belgeseltv
+#EXTINF:-1,FOX
+rtmp://$OPT:rtmp-raw=rtmp://edge04-09.az.myvideo.az/dvrh264/foxturk/ playpath=mp4:foxturk swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=foxturk
+#EXTINF:-1,HABER TURK
+rtmp://$OPT:rtmp-raw=rtmp://edge03-08.az.myvideo.az/dvrh264/haberturk/ playpath=mp4:haberturk swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=haberturk
+#EXTINF:-1,HD SINEMA 1 mms
+mms://yayin7.canliyayin.org/sinema1
+#EXTINF:-1,HD SINEMA 2 mms
+mms://yayin7.canliyayin.org/sinema2
+#EXTINF:-1,HD SINEMA 3 mms
+mms://yayin7.canliyayin.org/sinema3
+#EXTINF:-1,HD SINEMA 4 mms
+mms://yayin7.canliyayin.org/sinema4
+#EXTINF:-1,HD SINEMA 5 mms
+mms://yayin7.canliyayin.org/sinema5
+#EXTINF:-1,HD SINEMA 6 mms
+mms://yayin7.canliyayin.org/sinema6
+#EXTINF:-1,HD SINEMA mms
+mms://yayin7.canliyayin.org/sinema
+#EXTINF:-1,KANAL D
+rtmp://$OPT:rtmp-raw=rtmp://edge04-01.az.myvideo.az/dvrh264/canald/ playpath=mp4:canald swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=canald
+#EXTINF:-1,KANAL M mms
+mms://yayin.networkbil.com/kanalm
+#EXTINF:-1,KANAL TURK
+rtmp://$OPT:rtmp-raw=rtmp://edge04-08.az.myvideo.az/dvrh264/kanalturk/ playpath=mp4:kanalturk swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=kanalturk
+#EXTINF:-1,NTV
+rtmp://$OPT:rtmp-raw=rtmp://edge04-08.az.myvideo.az/dvrh264/canlintv/ playpath=mp4:canlintv swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=canlintv
+#EXTINF:-1,ODTÜ TEKNOKENT TV
+rtmp://s01.speednext.com:1935/odtuteknokent/odtuteknokent
+#EXTINF:-1,SKY TURK
+rtmp://$OPT:rtmp-raw=rtmp://edge04-08.az.myvideo.az/dvrh264/skyturk/ playpath=mp4:skyturk swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=skyturk
+#EXTINF:-1,STAR TV
+rtmp://$OPT:rtmp-raw=rtmp://edge03-04.az.myvideo.az/dvrh264/startv/ playpath=mp4:startv swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=startv
+#EXTINF:-1,TARIM TV mms
+mms://85.111.4.61/tarim
+#EXTINF:-1,TRT 3
+rtmp://$OPT:rtmp-raw=rtmp://edge04-08.az.myvideo.az/dvrh264/trt3/ playpath=mp4:trt3 swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=trt3
+#EXTINF:-1,TRT OKUL
+rtmp://$OPT:rtmp-raw=rtmp://sol.trtcdn.com/tv/ playpath=trtokul_3 swfUrl=http://www.trt.net.tr/js/jwplayer.flash.swf live=true pageUrl=http://www.trt.net.tr/anasayfa/canli.aspx?y=tv&k=trtokul
+#EXTINF:-1,TV8
+rtmp://$OPT:rtmp-raw=rtmp://edge03-03.az.myvideo.az/dvrh264/tv8/ playpath=mp4:tv8 swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=tv8
+#EXTINF:-1,WORLD TRAVEL CHANNEL HD
+rtmp://$OPT:rtmp-raw=rtmp://stream.taksimbilisim.com:1935/wtc/bant1
+#EXTINF:-1,YABAN TV
+rtmp://$OPT:rtmp-raw=rtmp://edge03-03.az.myvideo.az/dvrh264/yabantv/ playpath=mp4:yabantv swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=yabantv
+#EXTINF:-1,YUMURCAK
+rtmp://$OPT:rtmp-raw=rtmp://edge04-07.az.myvideo.az/dvrh264/yumurcak/ playpath=mp4:yumurcak swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=yumurcak
